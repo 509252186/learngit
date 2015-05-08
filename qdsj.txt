@@ -1,0 +1,10 @@
+《单页Web应用》 <javascript dom编程艺术> 《javascript dom 高级程序设计》
+《CSS 权威指南》《CSS 禅意花园》
+和大漠的《CSS3 图解》,《写给大家看的设计书》
+《 JavaScript 高级程序设计》 ，《JavaScript 语言精粹》
+《JavaScript 权威指南》（大部头，可以当字典来看 哈哈）
+《锋利的jQuery》《css艺门之匠》
+
+ 掌握 GitHub，GitHub 现在已然成为程序员的简历了，不信你去看各种程序员招聘，通常会写有 GitHub 加分。
+
+当然这里指的 有GitHub 不是有 GitHub账号，是你有在 GitHub 在记录下些什么，可以是你的代码，你的博客，等等。
